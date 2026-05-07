@@ -2,8 +2,6 @@
 
 This repository contains the implementation and refined dataset for multi-level Arabic readability assessment. The framework evaluates standalone Transformers, Hybrid BiLSTM-Attention models, and Stacked Generalization to address morphological complexity in Arabic NLP.
 
-**Important:** This repository is primarily an archive/collection of notebooks, data artifacts, and experiment outputs. The files are integrated into a runnable application using the trained models on an application; notebooks and scripts are snapshots of experiments. To run experiments, you'll typically need to combine notebooks, adapt paths, and create an execution environment (see the Notes section below).
-
 **Status:** Active research / academic project.
 
 
