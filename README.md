@@ -27,7 +27,7 @@ The framework utilizes the **Refined Bayyin Dataset**, an expanded version of th
 
 ## Repository Structure
 
-### /Transformer Models/
+### Transformer Models
 * `AraBERTv2Bayyin2.ipynb`
 * `AraELCTRABayyin.ipynb`
 * `arabicbertBayyin.ipynb`
@@ -37,12 +37,12 @@ The framework utilizes the **Refined Bayyin Dataset**, an expanded version of th
 * `marbertv2Bayyin.ipynb`
 * `qaribBayyin.ipynb`
 
-### /Hybrid Models/
+### Hybrid Models
 * `bilstmBayyin2.ipynb`: Implementation of the Transformer-BiLSTM-Attention hybrid architecture.
 * `arabertv2HandcraftedBayyin.ipynb`: Integration of transformer softmax scores with handcrafted linguistic features.
 * `bilstm-multiencoding-hybrid.ipynb`: Multi-encoder framework (AraBERTv2, CamelBERT-MSA, and MARBERTv2) with a meta-classifier.
 
-### /Ensemble/
+### Ensemble
 * `EnsembleBayyin.ipynb`: Implementation of Stacking Generalization utilizing meta-learners such as SVM, XGBoost, and CatBoost.
 * `Hierarchal_2_3_ensembel.ipynb`: Implementation of the two-stage hierarchical classification pipeline.
 
