@@ -70,7 +70,6 @@ This project is submitted for the fulfillment of the requirements for the gradua
 * Dr. Shahd Alahdal
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
+The code in this repository is released under the MIT License. The dataset is released under the licenses of its underlying sources and is intended for academic research only.
 
 
