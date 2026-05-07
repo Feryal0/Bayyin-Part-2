@@ -1,1 +1,33 @@
-# Bayyin2
+# Bayyin: Arabic Readability Classification via Hybrid and Ensemble Architectures
+
+This repository contains the implementation and refined dataset for multi-level Arabic readability assessment. The framework evaluates standalone Transformers, Hybrid BiLSTM-Attention models, and Stacked Generalization to address morphological complexity in Arabic NLP.
+
+**Important:** This repository is primarily an archive/collection of notebooks, data artifacts, and experiment outputs. The files are integrated into a runnable application using the trained models on an application; notebooks and scripts are snapshots of experiments. To run experiments, you'll typically need to combine notebooks, adapt paths, and create an execution environment (see the Notes section below).
+
+**Status:** Active research / academic project.
+
+
+## Project Aim & Objectives
+
+The main goal is to develop an AI tool that performs both **readability assessment** for the Arabic language.
+
+Our key objectives include:
+* To refine the Bayyin dataset by targeting the intermediate levels aiming to improve class-wise performance.
+* To fine-tune and optimize State-of-the-Art (SOA) Arabic Large Language models to classify Arabic texts into defined proficiency levels.
+* To create a classification framework that leverages multiple models to ensure better generalization and fewer mistakes.
+
+## Contributors & contact
+This project is submitted for the fulfillment of the requirements for the graduation project at the University of Jeddah. For questions about reproducing results or data access, open an issue on the repository or contact the repository owner.
+
+**Contributors:**
+* Sarah F. Alhalees (2219288) 
+* Nagham A. Alshbrawi (2219273)
+* Raya Y. Abu Aljamal (2310903) 
+* Fatimah M. Alsinan (2310303) 
+* Feryal E. Jadallah (2311180) 
+* Bayan Z. Barmeem (2219206) 
+
+**Supervisor:**
+* Dr. Shahd Alahdal 
+
+
